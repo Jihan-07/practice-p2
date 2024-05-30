@@ -1,0 +1,40 @@
+header{
+    height: 40px;
+    width: 100%;
+    text-align: center;
+    text-overflow: ellipsis;
+    color: black;
+    font-size: xx-large;
+    background-color: bisque;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+body{
+    width: 80%;
+    margin: auto;
+}
+.sec1{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 20px 30px;
+}
+.sec1 .btn1{
+    background-color: black;
+    color: white;
+    padding: 10px 20px;
+}
+.sec1 .div2 .btn2{
+    background-color: yellow;
+    color: black;
+    padding: 10px 30px;
+    border-radius: 20px;
+}
+.sec1 .div3 button{
+    background-color: aquamarine;
+    color: white;
+    padding: 10px 15px;
+    border-radius: 10px;
+    border-color: white;
+
+}
